@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About
 ---
 ### 氏名
 - 花澤楓
