@@ -18,6 +18,9 @@ title: About
   - [Web Syllabus](https://syllabus.kosen-k.go.jp/Pages/PublicSubjects?school_id=14&department_id=14&year=2022&lang=ja)
 - 2023年4月 横浜国立大学経済学部入学（3年次編入）
 
+### 技術スキル
+- Python, R, LaTex, C, C++（少し）
+
 ### アウトプット
 - [Train (2009)勉強メモ](https://www.notion.so/Discrete-Choice-Methods-with-Simulation-cbf888b3542542e591c3c5391592fe99?pvs=4)
 - [Tirole (1988)勉強会、担当分の発表資料](https://speakerdeck.com/kaede_econ03/tirole-1988-chapter-8)
