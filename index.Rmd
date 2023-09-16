@@ -19,7 +19,7 @@ title: About
 - 2023年4月 横浜国立大学経済学部入学（3年次編入）
 
 ### 技術スキル
-- Python, R, LaTex, C, C++（少し）
+- Python, R, LaTex, C++(少し), C
 
 ### アウトプット
 - [Train (2009)勉強メモ](https://www.notion.so/Discrete-Choice-Methods-with-Simulation-cbf888b3542542e591c3c5391592fe99?pvs=4)

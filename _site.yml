@@ -1,6 +1,7 @@
 name: "サイトタイトル"
 navbar: 
   title: "Kaede Hanazawa"
+  # type: inverse
   left:
     - text: "About"
       href: index.html
