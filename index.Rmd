@@ -25,7 +25,7 @@ title: About
 - [Train (2009)勉強メモ](https://www.notion.so/Discrete-Choice-Methods-with-Simulation-cbf888b3542542e591c3c5391592fe99?pvs=4)
 - [Tirole (1988)勉強会、担当分の発表資料](https://speakerdeck.com/kaede_econ03/tirole-1988-chapter-8)
 - [経セミ連載・実証ビジネスエコノミクス](https://sites.google.com/view/keisemi-ebiz/)のRコードを[Pythonで実装したもの](https://github.com/Hanazawa-Kaede/EmpiricalBussinessEconomics)
-- [Steven T. Berry & Philip A. Haile (2021). Handbook of Industrial Organization, Volume 4, Chapter 1, Foundations of demand estimation.勉強会、作成資料](https://drive.google.com/file/d/1Ha8mciypC_-hVBsHT7BBMxHETL7R93rq/view?usp=sharing)
+- [Steven T. Berry & Philip A. Haile (2021). Handbook of Industrial Organization, Volume 4, Chapter 1, Foundations of demand estimation. 勉強会作成資料](https://drive.google.com/file/d/1GlCPNr_xQWUulDQwJV5mWR-AOy4fGb-Q/view?usp=sharing)
 
 ### 英語
 - TOEIC 850 (2021年 3月21日)
